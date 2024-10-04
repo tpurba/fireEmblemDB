@@ -1,6 +1,7 @@
 ﻿# Fire Emblem
 Our project queries databases holding information about Fire Emblem Awakening that a player might find useful during a play through of the game.
 
+![FBDBPic](https://github.com/tpurba/fireEmblemDB/blob/main/fireEmblemPic.png)
 [Schema picture](https://github.com/tpurba/fireEmblemDB/blob/main/FireEmblemERDiagram%20(1).pdf)
 ## Query it did well on
 Question: "How many spell uses does Robin have in total?"
